@@ -1,5 +1,10 @@
 body {
     background-color: black;
+    font-family: 'UnifrakturMaguntia', cursive;
+}
+
+.navbar, .navbar-brand {
+    font-size: 25px;
 }
 
 .jumbotron {
